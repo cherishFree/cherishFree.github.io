@@ -9,4 +9,6 @@
 
 
 
+>[第二天：给自己做一个在线简历吧](https://cherishfree.github.io/cherishFree.github.io-cherishFree/resume/resume.html)
+
 初入前端，欢迎大家指教！
