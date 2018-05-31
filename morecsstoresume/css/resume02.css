@@ -1,0 +1,27 @@
+.title {
+    float: left;
+    width: 300px;
+    height: 100%;
+    background-color: #65a5fa;
+    color: #fefeff;
+    text-align: center;
+}
+
+.main {
+    float: left;
+    padding-left: 15px;
+}
+
+.main .item {
+    padding: 15px 0;
+}
+
+.main .item .stress {
+    font-weight: 800;
+}
+
+.about ul li,
+.connect ul li {
+    float: left;
+    margin-right: 15px;
+}

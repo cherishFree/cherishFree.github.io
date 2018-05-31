@@ -6,50 +6,65 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>多模板的简历</title>
+    <link rel="stylesheet" href="css/raset.css">
     <link rel="stylesheet" href="css/resume01.css">
     <link rel="stylesheet" href="css/resume02.css">
     <link rel="stylesheet" href="css/resume03.css">
 </head>
 
 <body>
-    <div id="one">
+    <div>
         <h1>简历</h1>
         <div>
             <h3>基本信息</h3>
-            <div>
-                <span><input type="text" value="姓名"><label for="">张三</label></span>
-                <span><input type="text" value="性别"><label for="">男</label></span>
-                <span><input type="text" value="应聘职位"><label for="">Web前端工程师</label></span>
-            </div>
+            <ul>
+                <li><span>姓名</span>张三</li>
+                <li><span>性别</span>男</li>
+                <li><span>应聘职位</span>Web前端工程师</li>
+            </ul>
+
         </div>
         <div>
             <h3>联系方式</h3>
-            <div>
-                <span><input type="text" value="手机"><label for=""></label></span>
-                <span><input type="text" value="Email"><label for=""></label></span>
-                <span><input type="text" value="个人主页"><label for=""></label></span>
-            </div>
+            <ul>
+                <li><span>手机</span>12345678911</li>
+                <li><span>Email</span><a href="#">zhangsan@gmail.com</a></li>
+                <li><span>个人主页</span><a href="#">Github</a></li>
+            </ul>
         </div>
         <div>
             <h3>能力描述</h3>
-            <div>
-                <span><input type="text" value="技术能力"><label for=""></label></span>
-                <span><input type="text" value="综合能力"><label for=""></label></span>
-            </div>
+            <ul>
+                <li><span>技术能力</span>
+                    <p>熟练掌握HTML,CSS,JavaScript</p>
+                </li>
+                <li><span>综合</span>
+                    <p>良好的沟通能力，积极主动，努力奋进</p>
+                </li>
+            </ul>
         </div>
         <div>
             <h3>教育经历</h3>
-            <div>
-                <span><input type="text" value="本科"><label for=""></label></span>
-                <span><input type="text" value="研究生"><label for=""></label></span>
-            </div>
+            <ul>
+                <li><span>本科</span>
+                    <p>百度前端技术学院小薇学院</p>
+                </li>
+                <li><span>研究生</span>
+                    <p>百度前端技术学院大斌学院</p>
+                </li>
+            </ul>
+
         </div>
         <div>
             <h3>项目经历</h3>
-            <div>
-                <span><input type="text" value="小度小度"><label for=""></label></span>
-                <span><input type="text" value="SAN Doc"><label for=""></label></span>
-            </div>
+            <ul>
+                <li><span>小度小度</span>
+                    <p>作为前端工程师角色参与了ABC组件的开发</p>
+                </li>
+                <li><span>SAN Doc</span>
+                    <p>作为文档工程师参与了SAN Doc编写</p>
+                </li>
+            </ul>
         </div>
     </div>
 </body>

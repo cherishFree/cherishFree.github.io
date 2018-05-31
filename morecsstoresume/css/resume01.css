@@ -1,0 +1,19 @@
+h1,
+h2,
+h4 {
+    padding: 12px 0;
+}
+
+.wrap .main div {
+    margin-bottom: 15px;
+}
+
+.stress {
+    font-weight: 800;
+}
+
+.about ul li,
+.connect ul li {
+    float: left;
+    margin-right: 15px;
+}
