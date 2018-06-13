@@ -13,5 +13,11 @@
 
 >[第三天：让简历有点色彩](https://cherishfree.github.io/cherishFree.github.io-cherishFree/resume/resume.html)
 
+>[第四天：背景边框列表链接和更复杂的选择器](https://cherishfree.github.io/cherishFree.github.io-cherishFree/resume/resume.html)
+
+>[第五天和第六天：三种简历](https://cherishfree.github.io/cherishFree.github.io-cherishFree/morecsstoresume/resume.html)
+
+>[第七天和第八天：学习布局](https://cherishfree.github.io/cherishFree.github.io-cherishFree/layout/layout.html)
+
 初入前端，欢迎大家指教！
 
