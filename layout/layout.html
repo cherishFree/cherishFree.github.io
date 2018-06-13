@@ -6,11 +6,50 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>layout</title>
+    <style>
+        * {
+            border: 1px solid #000000;
+        }
+        
+        span {
+            height: 80px;
+            width: 100px;
+            background: red;
+            ;
+        }
+        
+        .one1 {
+            position: absolute;
+        }
+        
+        .two4 {
+            position: absolute;
+            width: 200px;
+            height: 60px;
+            background: green;
+        }
+        
+        .two3 {
+            position: relative;
+            z-index: 3;
+        }
+    </style>
 </head>
 
 <body>
     <div class="layout">
-        hello layout
+        <div class="one">
+            <span class="one1">one1</span>
+            <span class="one2">one1</span>
+            <span class="one3">one1</span>
+            <span class="one4">one1</span>
+        </div>
+        <div class="two">
+            <span class="two1">one1</span>
+            <span class="two2">one1</span>
+            <span class="two3">one1</span>
+            <span class="two4">one1</span>
+        </div>
     </div>
 </body>
 
