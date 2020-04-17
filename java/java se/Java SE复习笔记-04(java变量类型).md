@@ -1,5 +1,5 @@
-# Java SE复习笔记
-#### Java变量类型
+# Java SE复习笔记-04
+## Java变量类型
 
 在Java语言中，所有变量的使用前必须声明。声明变量的基本格式如下：
 `type identifier[= value][,identifier [= value]...]`
